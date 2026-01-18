@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/banner.png" alt="Banner profesional Álvaro Lozano" style="max-width: 100%; height: auto;" />
+  <img src="img/Banner.png" alt="Banner profesional Álvaro Lozano" style="max-width: 100%; height: auto;" />
 </div>
 
 <h1 align="center">Álvaro Lozano Artero</h1>
