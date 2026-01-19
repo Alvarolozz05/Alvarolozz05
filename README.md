@@ -9,8 +9,6 @@
   <a href="#resumen-profesional">Resumen</a> ·
   <a href="#especialidades">Especialidades</a> ·
   <a href="#stack-técnico">Stack</a> ·
-  <a href="#proyectos-y-experiencia">Proyectos</a> ·
-  <a href="#forma-de-trabajo">Forma de trabajo</a> ·
   <a href="#métricas">Métricas</a> ·
   <a href="#contacto">Contacto</a>
 </div>
@@ -23,11 +21,11 @@ Soy desarrollador web construyendo aplicaciones completas (frontend + backend) y
 
 ## Especialidades
 
-- Arquitectura de aplicaciones web: diseño modular, patrones, escalabilidad y seguridad.
-- Desarrollo Full‑Stack: SPAs con Angular; APIs REST con Spring y Laravel.
-- Modelado y optimización de datos: esquemas relacionales, índices, migraciones y consultas eficientes en MySQL.
-- Entrega y despliegue: contenedores con Docker, entornos en AWS y automatización básica de pipelines.
-- UX colaborativa: diseño responsivo, accesibilidad (WCAG), prototipado y handoff con Figma.
+- **Arquitectura de aplicaciones web:** diseño modular, patrones, escalabilidad y seguridad.
+- **Desarrollo Full‑Stack:** SPAs con Angular; APIs REST con Spring y Laravel.
+- **Modelado y optimización de datos:** esquemas relacionales, índices, migraciones y consultas eficientes en MySQL.
+- **Entrega y despliegue:** contenedores con Docker, entornos en AWS y automatización básica de pipelines.
+- **UX colaborativa:** diseño responsivo, accesibilidad (WCAG), prototipado y handoff con Figma.
 
 ## Stack técnico
 
@@ -59,11 +57,11 @@ Soy desarrollador web construyendo aplicaciones completas (frontend + backend) y
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
 </div>
 
-- **Frontend**: HTML5, CSS3, JavaScript, Angular.
-- **Backend**: Java (Spring), PHP (Laravel).
-- **Datos**: MySQL (modelado, migraciones, rendimiento).
-- **DevOps**: Docker, AWS (servicios gestionados, despliegues básicos).
-- **Colaboración**: Git/GitHub, Figma, documentación técnica.
+- **Frontend:** HTML5, CSS3, JavaScript, Angular.
+- **Backend:** Java (Spring), PHP (Laravel).
+- **Datos:** MySQL (modelado, migraciones, rendimiento).
+- **DevOps:** Docker, AWS (servicios gestionados, despliegues básicos).
+- **Colaboración:** Git/GitHub, Figma, documentación técnica.
 
 ## Métricas
 
