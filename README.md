@@ -59,11 +59,11 @@ Soy desarrollador web construyendo aplicaciones completas (frontend + backend) y
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
 </div>
 
-- Frontend: HTML5, CSS3, JavaScript, Angular.
-- Backend: Java (Spring), PHP (Laravel).
-- Datos: MySQL (modelado, migraciones, rendimiento).
-- DevOps: Docker, AWS (servicios gestionados, despliegues básicos).
-- Colaboración: Git/GitHub, Figma, documentación técnica.
+- **Frontend**: HTML5, CSS3, JavaScript, Angular.
+- **Backend**: Java (Spring), PHP (Laravel).
+- **Datos**: MySQL (modelado, migraciones, rendimiento).
+- **DevOps**: Docker, AWS (servicios gestionados, despliegues básicos).
+- **Colaboración**: Git/GitHub, Figma, documentación técnica.
 
 ## Métricas
 
@@ -78,11 +78,14 @@ Soy desarrollador web construyendo aplicaciones completas (frontend + backend) y
   <a href="https://www.instagram.com/alvaroloz05/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <!-- <a href="mailto:alvlozart.05@gmail.com" target="_blank" rel="noopener">
+  <a href="mailto:alvlozart.05@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Correo" />
   </a>
-</div> -->
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-lozano-artero-9350411bb/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
 
-<sub>Última actualización: 18 de enero de 2026</sub>
+<sub>Última actualización: 19 de enero de 2026</sub>
