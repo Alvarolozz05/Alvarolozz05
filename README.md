@@ -84,7 +84,7 @@ Priorizo buenas prácticas de ingeniería: **código limpio**, **pruebas**, **do
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alvarolozz05&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de GitHub" />
-  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarolozz05&size_weight=0.5&count_weight=0.5&theme=dracula" alt="Lenguajes más usados" />
 </div>
 
