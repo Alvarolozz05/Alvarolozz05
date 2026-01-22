@@ -1,89 +1,106 @@
+
 <div align="center">
-  <img src="img/Banner.png" alt="Banner profesional Álvaro Lozano" style="max-width: 100%; height: auto;" />
+  <img src="img/Banner.png" alt="Banner profesional de Álvaro Lozano" style="max-width: 100%; height: auto;" />
 </div>
 
 <h1 align="center">Álvaro Lozano Artero</h1>
-<h3 align="center">Desarrollador Web · Almería (ES)</h3>
+<p align="center"><strong>Desarrollador Web</strong> · Almería (ES)</p>
 
 <div align="center">
-  <a href="#resumen-profesional">Resumen</a> ·
+  <a href="#sobre-mí">Sobre mí</a> ·
   <a href="#especialidades">Especialidades</a> ·
   <a href="#stack-técnico">Stack</a> ·
-  <a href="#métricas">Métricas</a> ·
+  <a href="#forma-de-trabajar">Forma de trabajar</a> ·
+  <a href="#estadísticas">Estadísticas</a> ·
   <a href="#contacto">Contacto</a>
 </div>
 
 ---
 
-## Resumen profesional
+## Sobre mí
 
-Soy desarrollador web construyendo aplicaciones completas (frontend + backend) y servicios API. Trabajo con Java/Spring y PHP/Laravel en el backend, Angular y JavaScript en el frontend, y MySQL como base de datos principal. Me apoyo en Docker y AWS para despliegues y entornos reproducibles, manteniendo buenas prácticas de ingeniería: código limpio, pruebas, documentación y entrega continua.
+Desarrollador web orientado a construir productos completos: **SPAs** y **servicios API** con foco en *mantenibilidad, rendimiento y seguridad*. Trabajo principalmente con **Java/Spring** y **PHP/Laravel** en backend, **Angular/JavaScript** en frontend y **MySQL** como base de datos.
+
+Priorizo buenas prácticas de ingeniería: **código limpio**, **pruebas**, **documentación**, *entornos reproducibles* y **entrega continua**.
 
 ## Especialidades
 
-- **Arquitectura de aplicaciones web:** diseño modular, patrones, escalabilidad y seguridad.
-- **Desarrollo Full‑Stack:** SPAs con Angular; APIs REST con Spring y Laravel.
-- **Modelado y optimización de datos:** esquemas relacionales, índices, migraciones y consultas eficientes en MySQL.
-- **Entrega y despliegue:** contenedores con Docker, entornos en AWS y automatización básica de pipelines.
+- **Arquitectura de aplicaciones web:** diseño modular, separación de responsabilidades, patrones y escalabilidad.
+- **Full‑Stack (frontend + backend):** SPAs con Angular y APIs REST con Spring/Laravel.
+- **Datos (MySQL):** modelado relacional, migraciones, índices y consultas eficientes.
+- **Entrega y despliegue:** Docker para entornos consistentes y AWS para despliegues y servicios gestionados.
 - **UX colaborativa:** diseño responsivo, accesibilidad (WCAG), prototipado y handoff con Figma.
 
 ## Stack técnico
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
-  <img width="12" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="AWS" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman" />
 </div>
 
-- **Frontend:** HTML5, CSS3, JavaScript, Angular.
-- **Backend:** Java (Spring), PHP (Laravel).
-- **Datos:** MySQL (modelado, migraciones, rendimiento).
-- **DevOps:** Docker, AWS (servicios gestionados, despliegues básicos).
-- **Colaboración:** Git/GitHub, Figma, documentación técnica.
+| Área | Tecnologías |
+| --- | --- |
+| Frontend | HTML5, CSS3, JavaScript, Angular, Vue.js |
+| Backend | Java (Spring), PHP (Laravel) |
+| Datos | MySQL (modelado, migraciones, rendimiento) |
+| DevOps / Cloud | Docker, AWS (servicios gestionados, despliegues), Postman |
+| Colaboración | Git/GitHub, Figma, Postman, documentación técnica |
 
-## Métricas
+## Forma de trabajar
+
+- **Calidad y mantenibilidad:** convenciones claras, refactors controlados y deuda técnica bajo vigilancia.
+- **API-first y contratos:** diseño de endpoints, validación, versionado cuando aplica y documentación de consumo.
+- **Observabilidad básica:** logs útiles, trazas y manejo consistente de errores.
+- **Entrega continua:** automatización incremental y despliegues repetibles con Docker.
+
+## Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvarolozz05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alvarolozz05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alvarolozz05&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarolozz05&size_weight=0.5&count_weight=0.5&theme=dracula" alt="Lenguajes más usados" />
 </div>
 
 ## Contacto
 
 <div align="left">
-  <a href="https://www.instagram.com/alvaroloz05/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
   <a href="mailto:alvlozart.05@gmail.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Correo" />
+    <img src="https://img.shields.io/badge/Email-alvlozart.05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Correo" />
   </a>
   <a href="https://www.linkedin.com/in/%C3%A1lvaro-lozano-artero-9350411bb/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/alvaroloz05/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Instagram-@alvaroloz05-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
 </div>
 
 ---
 
-<sub>Última actualización: 19 de enero de 2026</sub>
+<sub>Última actualización: 22 de enero de 2026</sub>
