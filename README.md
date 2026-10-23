@@ -1,107 +1,258 @@
+ <div align="center">
 
-<div align="center">
-  <img src="img/Banner.png" alt="Banner profesional de Álvaro Lozano" style="max-width: 100%; height: auto;" />
-</div>
+  <img src="img/Banner.png" alt="Álvaro Lozano Artero — Desarrollador de aplicaciones web" width="100%" />
 
-<h1 align="center">Álvaro Lozano Artero</h1>
-<p align="center"><strong>Desarrollador Web</strong> · Almería (ES)</p>
+  <br />
+  <br />
 
-<div align="center">
-  <a href="#sobre-mí">Sobre mí</a> ·
-  <a href="#especialidades">Especialidades</a> ·
-  <a href="#stack-técnico">Stack</a> ·
-  <a href="#forma-de-trabajar">Forma de trabajar</a> ·
-  <a href="#estadísticas">Estadísticas</a> ·
-  <a href="#contacto">Contacto</a>
+  <img src="https://img.shields.io/badge/DESARROLLO_WEB-FULL_STACK-071827?style=for-the-badge&labelColor=071827&color=087EA4" alt="Desarrollo web Full Stack" />
+
+  <h1>Álvaro Lozano Artero</h1>
+
+  <h3>Desarrollador de Aplicaciones Web</h3>
+
+  <p><strong>Diseñando. Desarrollando. Evolucionando.</strong></p>
+
+  <p>Desarrollo de aplicaciones web · Backend · Frontend · Bases de datos</p>
+
+  <br />
+
+  <a href="mailto:alvlozart.05@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACTO-EMAIL-0B2538?style=for-the-badge&logo=gmail&logoColor=4CC9F0" alt="Contacto por correo electrónico" />
+  </a>
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-lozano-artero-9350411bb/">
+    <img src="https://img.shields.io/badge/LINKEDIN-PERFIL-0B2538?style=for-the-badge&logo=linkedin&logoColor=4CC9F0" alt="Perfil de LinkedIn" />
+  </a>
+  <a href="https://github.com/Alvarolozz05?tab=repositories">
+    <img src="https://img.shields.io/badge/GITHUB-PROYECTOS-0B2538?style=for-the-badge&logo=github&logoColor=4CC9F0" alt="Repositorios de GitHub" />
+  </a>
+
+  <br />
+  <br />
+
+  <img src="https://img.shields.io/badge/UBICACIÓN-Almería%2C%20España-102C43?style=flat-square&logo=googlemaps&logoColor=4CC9F0" alt="Almería, España" />
+  <img src="https://img.shields.io/badge/FORMACIÓN-DAW-102C43?style=flat-square&logo=bookstack&logoColor=4CC9F0" alt="Desarrollo de Aplicaciones Web" />
+  <img src="https://img.shields.io/badge/ENFOQUE-Full%20Stack-102C43?style=flat-square&logo=code&logoColor=4CC9F0" alt="Desarrollo Full Stack" />
+
 </div>
 
 ---
 
-## Sobre mí
+## 01 · Perfil profesional
 
-Desarrollador web orientado a construir productos completos: **SPAs** y **servicios API** con foco en *mantenibilidad, rendimiento y seguridad*. Trabajo principalmente con **Java/Spring** y **PHP/Laravel** en backend, **Angular/JavaScript** en frontend y **MySQL** como base de datos.
+Soy estudiante de segundo curso del **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**, con especial interés en la ingeniería de software y la creación de soluciones digitales.
 
-Priorizo buenas prácticas de ingeniería: **código limpio**, **pruebas**, **documentación**, *entornos reproducibles* y **entrega continua**.
+Mi enfoque combina el desarrollo frontend, la programación backend y la gestión de bases de datos para comprender el funcionamiento de una aplicación de principio a fin.
 
-## Especialidades
+Actualmente, estoy profundizando en el ecosistema **Java, Spring Boot, Angular y MySQL**, aplicando mis conocimientos mediante proyectos académicos y personales.
 
-- **Arquitectura de aplicaciones web:** diseño modular, separación de responsabilidades, patrones y escalabilidad.
-- **Full‑Stack (frontend + backend):** SPAs con Angular y APIs REST con Spring/Laravel.
-- **Datos (MySQL):** modelado relacional, migraciones, índices y consultas eficientes.
-- **Entrega y despliegue:** Docker para entornos consistentes y AWS para despliegues y servicios gestionados.
-- **UX colaborativa:** diseño responsivo, accesibilidad (WCAG), prototipado y handoff con Figma.
+Me interesa construir aplicaciones con una arquitectura clara, código mantenible, separación de responsabilidades y una experiencia de usuario cuidada.
 
-## Stack técnico
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="AWS" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman" />
-</div>
-
-| Área | Tecnologías |
-| --- | --- |
-| Frontend | HTML5, CSS3, JavaScript, Angular, Vue.js |
-| Backend | Java (Spring), PHP (Laravel) |
-| Datos | MySQL (modelado, migraciones, rendimiento) |
-| DevOps / Cloud | Docker, AWS (servicios gestionados, despliegues), Postman |
-| Colaboración | Git/GitHub, Figma, Postman, documentación técnica |
-
-## Forma de trabajar
-
-- **Calidad y mantenibilidad:** convenciones claras, refactors controlados y deuda técnica bajo vigilancia.
-- **API-first y contratos:** diseño de endpoints, validación, versionado cuando aplica y documentación de consumo.
-- **Observabilidad básica:** logs útiles, trazas y manejo consistente de errores.
-- **Entrega continua:** automatización incremental y despliegues repetibles con Docker.
-
-## Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvarolozz05&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarolozz05&size_weight=0.5&count_weight=0.5&theme=dracula" alt="Lenguajes más usados" />
-</div>
-
-## Contacto
-
-<div align="left">
-  <a href="mailto:alvlozart.05@gmail.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Email-alvlozart.05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Correo" />
-  </a>
-  <a href="https://www.linkedin.com/in/%C3%A1lvaro-lozano-artero-9350411bb/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/alvaroloz05/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Instagram-@alvaroloz05-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
-  </a>
-</div>
+Mi objetivo es seguir evolucionando como desarrollador, ampliar mis competencias técnicas y transformar cada proyecto en una oportunidad para aprender, experimentar y mejorar.
 
 ---
 
-<sub>Última actualización: 22 de enero de 2026</sub>
+## 02 · Tecnologías y herramientas
+
+<p align="center">
+  <sub>Tecnologías relacionadas con mi formación y aprendizaje práctico.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01. Desarrollo frontend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,vue&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Angular y Vue.js" />
+      </p>
+      <table>
+        <tr><th>Tecnología</th><th>Aplicación</th></tr>
+        <tr><td>HTML5</td><td>Estructura web</td></tr>
+        <tr><td>CSS3</td><td>Diseño y presentación</td></tr>
+        <tr><td>JavaScript</td><td>Programación frontend</td></tr>
+        <tr><td>TypeScript</td><td>Tipado estático</td></tr>
+        <tr><td>Angular</td><td>Aplicaciones web</td></tr>
+        <tr><td>Vue.js</td><td>Interfaces de usuario</td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02. Desarrollo backend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nestjs&theme=dark" alt="Java, Spring Boot, PHP, Laravel y NestJS" />
+      </p>
+      <table>
+        <tr><th>Tecnología</th><th>Aplicación</th></tr>
+        <tr><td>Java</td><td>Programación</td></tr>
+        <tr><td>Spring Boot</td><td>Aplicaciones backend</td></tr>
+        <tr><td>PHP</td><td>Desarrollo del servidor</td></tr>
+        <tr><td>Laravel</td><td>Aplicaciones web</td></tr>
+        <tr><td>NestJS</td><td>Servicios con Node.js</td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03. Bases de datos</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+      </p>
+      <table>
+        <tr><th>Tecnología</th><th>Aplicación</th></tr>
+        <tr><td>MySQL</td><td>Gestión de datos</td></tr>
+        <tr><td>SQL</td><td>Consultas y manipulación</td></tr>
+        <tr><td>Modelado relacional</td><td>Estructuración de datos</td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04. Herramientas y despliegue</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,docker,aws,postman,figma&theme=dark" alt="Git, Docker, AWS, Postman y Figma" />
+      </p>
+      <table>
+        <tr><th>Herramienta</th><th>Aplicación</th></tr>
+        <tr><td>Git</td><td>Control de versiones</td></tr>
+        <tr><td>Docker</td><td>Contenedores</td></tr>
+        <tr><td>AWS</td><td>Servicios en la nube</td></tr>
+        <tr><td>Postman</td><td>Pruebas de APIs</td></tr>
+        <tr><td>Figma</td><td>Diseño de interfaces</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 03 · Metodología de desarrollo
+
+<p>Mi forma de abordar los proyectos se basa en dividir los problemas en partes manejables, mantener una estructura organizada y priorizar la claridad del código.</p>
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h3>01</h3>
+      <img src="https://img.shields.io/badge/ANÁLISIS-087EA4?style=for-the-badge" alt="Análisis" />
+      <p><strong>Comprender</strong></p>
+      <p>Identificar requisitos, definir funcionalidades y delimitar el alcance.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>02</h3>
+      <img src="https://img.shields.io/badge/DISEÑO-087EA4?style=for-the-badge" alt="Diseño" />
+      <p><strong>Planificar</strong></p>
+      <p>Organizar componentes, estructuras de datos y arquitectura.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>03</h3>
+      <img src="https://img.shields.io/badge/DESARROLLO-087EA4?style=for-the-badge" alt="Desarrollo" />
+      <p><strong>Implementar</strong></p>
+      <p>Construir funcionalidades e integrar los distintos componentes.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>04</h3>
+      <img src="https://img.shields.io/badge/MEJORA-087EA4?style=for-the-badge" alt="Mejora continua" />
+      <p><strong>Evolucionar</strong></p>
+      <p>Revisar resultados, corregir errores y mejorar las soluciones.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 04 · Proyectos
+
+Desarrollo proyectos académicos y personales para aplicar conocimientos, experimentar con distintas tecnologías y avanzar hacia soluciones cada vez más completas.
+
+<div align="center">
+  <a href="https://github.com/Alvarolozz05?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORAR_PROYECTOS-087EA4?style=for-the-badge&logo=github&logoColor=white" alt="Explorar todos los proyectos" />
+  </a>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Qué encontrarás</h3>
+      <ul>
+        <li>Aplicaciones web desarrolladas durante mi formación.</li>
+        <li>Proyectos personales y experimentos tecnológicos.</li>
+        <li>Ejemplos de programación y soluciones prácticas.</li>
+        <li>Código fuente y documentación disponible.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Qué puedes consultar</h3>
+      <ul>
+        <li>Tecnologías utilizadas en cada proyecto.</li>
+        <li>Organización del código fuente.</li>
+        <li>Funcionalidades implementadas.</li>
+        <li>Instrucciones de instalación y ejecución, cuando estén documentadas.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 05 · Actividad y métricas de GitHub
+
+<p align="center">
+  <sub>Un resumen visual de mi actividad, los lenguajes que utilizo y mi evolución como desarrollador.</sub>
+</p>
+
+### 01. Estadísticas generales
+
+<div align="center">
+  <a href="https://github.com/Alvarolozz05">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alvarolozz05&show_icons=true&hide_border=true&rank_icon=github&locale=es&theme=github_dark&bg_color=071827&title_color=4CC9F0&icon_color=4CC9F0&text_color=D6E6F2" alt="Estadísticas generales de GitHub" width="49%" />
+  </a>
+  <a href="https://github.com/Alvarolozz05">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarolozz05&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=071827&title_color=4CC9F0&text_color=D6E6F2" alt="Distribución de lenguajes de programación" width="49%" />
+  </a>
+</div>
+
+### 02. Constancia y contribuciones
+
+<div align="center">
+  <a href="https://github.com/Alvarolozz05">
+    <img src="https://streak-stats.demolab.com?user=Alvarolozz05&theme=github-dark-blue&hide_border=true&locale=es&background=071827&ring=4CC9F0&fire=4CC9F0&currStreakLabel=4CC9F0" alt="Racha y continuidad de contribuciones" width="80%" />
+  </a>
+</div>
+
+### 03. Evolución de la actividad
+
+<div align="center">
+  <a href="https://github.com/Alvarolozz05">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvarolozz05&bg_color=071827&color=D6E6F2&line=087EA4&point=4CC9F0&area=true&area_color=087EA4&hide_border=true&custom_title=Actividad%20reciente%20en%20GitHub" alt="Gráfico de actividad reciente en GitHub" width="100%" />
+  </a>
+</div>
+
+<p align="center">
+  <sub>Las métricas dependen de la disponibilidad de los servicios externos y de los datos que GitHub expone. La distribución de lenguajes representa una estimación basada en el código de los repositorios, no en el tiempo de programación.</sub>
+</p>
+
+---
+
+## 06 · Contacto y colaboración
+
+Me interesa conectar con personas del sector tecnológico, intercambiar conocimientos y conocer oportunidades de aprendizaje y colaboración.
+
+<div align="center">
+  <a href="mailto:alvlozart.05@gmail.com">
+    <img src="https://img.shields.io/badge/CORREO-alvlozart.05%40gmail.com-0B2538?style=for-the-badge&logo=gmail&logoColor=4CC9F0" alt="Correo electrónico" />
+  </a>
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-lozano-artero-9350411bb/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Perfil_profesional-0B2538?style=for-the-badge&logo=linkedin&logoColor=4CC9F0" alt="Perfil profesional de LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/alvaroloz05/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@alvaroloz05-0B2538?style=for-the-badge&logo=instagram&logoColor=4CC9F0" alt="Perfil de Instagram" />
+  </a>
+
+  <br />
+  <br />
+
+  <img src="https://img.shields.io/badge/CONSTRUIDO_CON-CURIOSIDAD_Y_DEDICACIÓN-071827?style=for-the-badge&labelColor=071827&color=087EA4" alt="Construido con curiosidad y dedicación" />
+
+  <br />
+  <br />
+
+  <sub>© Álvaro Lozano Artero · Almería, España</sub>
+</div>
