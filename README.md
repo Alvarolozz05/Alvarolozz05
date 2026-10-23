@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="img/Banner.png" alt="Álvaro Lozano Artero — Desarrollador de aplicaciones web" width="100%" />
+  <img src="img/Banner2.png" alt="Álvaro Lozano Artero — Desarrollador de aplicaciones web" width="100%" />
 
   <br />
   <br />
