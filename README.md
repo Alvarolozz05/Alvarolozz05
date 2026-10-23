@@ -198,8 +198,6 @@ Desarrollo proyectos académicos y personales para aplicar conocimientos, experi
   <sub>Un resumen visual de mi actividad, los lenguajes que utilizo y mi evolución como desarrollador.</sub>
 </p>
 
-### 01. Estadísticas generales
-
 <div align="center">
   <a href="https://github.com/Alvarolozz05">
     <img src="https://github-readme-stats.vercel.app/api?username=Alvarolozz05&show_icons=true&hide_border=true&rank_icon=github&locale=es&theme=github_dark&bg_color=071827&title_color=4CC9F0&icon_color=4CC9F0&text_color=D6E6F2" alt="Estadísticas generales de GitHub" width="49%" />
@@ -209,25 +207,11 @@ Desarrollo proyectos académicos y personales para aplicar conocimientos, experi
   </a>
 </div>
 
-### 02. Constancia y contribuciones
-
 <div align="center">
   <a href="https://github.com/Alvarolozz05">
     <img src="https://streak-stats.demolab.com?user=Alvarolozz05&theme=github-dark-blue&hide_border=true&locale=es&background=071827&ring=4CC9F0&fire=4CC9F0&currStreakLabel=4CC9F0" alt="Racha y continuidad de contribuciones" width="80%" />
   </a>
 </div>
-
-### 03. Evolución de la actividad
-
-<div align="center">
-  <a href="https://github.com/Alvarolozz05">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvarolozz05&bg_color=071827&color=D6E6F2&line=087EA4&point=4CC9F0&area=true&area_color=087EA4&hide_border=true&custom_title=Actividad%20reciente%20en%20GitHub" alt="Gráfico de actividad reciente en GitHub" width="100%" />
-  </a>
-</div>
-
-<p align="center">
-  <sub>Las métricas dependen de la disponibilidad de los servicios externos y de los datos que GitHub expone. La distribución de lenguajes representa una estimación basada en el código de los repositorios, no en el tiempo de programación.</sub>
-</p>
 
 ---
 
@@ -246,13 +230,7 @@ Me interesa conectar con personas del sector tecnológico, intercambiar conocimi
     <img src="https://img.shields.io/badge/INSTAGRAM-@alvaroloz05-0B2538?style=for-the-badge&logo=instagram&logoColor=4CC9F0" alt="Perfil de Instagram" />
   </a>
 
-  <br />
-  <br />
-
-  <img src="https://img.shields.io/badge/CONSTRUIDO_CON-CURIOSIDAD_Y_DEDICACIÓN-071827?style=for-the-badge&labelColor=071827&color=087EA4" alt="Construido con curiosidad y dedicación" />
-
-  <br />
-  <br />
-
+  <br>
+  
   <sub>© Álvaro Lozano Artero · Almería, España</sub>
 </div>
